@@ -2,80 +2,59 @@
 Interactive tableau dashboard analyzing  e-com sales ,customer behavior, Product performance, and revenue trends. 
 🛒 E-commerce Sales Analytics Dashboard | Tableau
 
-📌 Project Overview
+Project Overview
 
-This project focuses on analyzing e-commerce sales data using Tableau to evaluate sales performance, product trends, customer behavior, and revenue patterns. The interactive dashboard helps transform raw data into meaningful business insights to support data-driven decision-making.
+This project focuses on analyzing e-commerce data using Tableau to evaluate sales performance, product trends, customer purchasing patterns, and revenue generation. The dashboard presents business data through visualizations to help identify trends, understand performance, and support data-driven decision-making.
 
-🎯 Project Objectives
+Project Objectives
 
-- Analyze overall e-commerce sales performance.
-- Identify top-performing products and categories.
-- Evaluate revenue and order trends.
+- Analyze e-commerce sales and revenue performance.
+- Evaluate product and category-wise sales.
 - Understand customer purchasing patterns.
-- Identify opportunities to improve sales and business performance.
+- Examine order trends and sales performance over time.
+- Identify opportunities to improve business performance.
 
-🛠️ Tools & Technologies
+Tools & Technologies
 
-- Tableau — Data visualization and interactive dashboard development.
-- Microsoft Excel / CSV — Data storage and preparation, where applicable.
+- Tableau
+- Microsoft Excel
+- Data Visualization
+- Business Analytics
 
-📊 Dashboard Preview
+Analysis & Methodology
 
-"E-commerce Sales Dashboard" (Dashboard_Screenshot.png)
+- Explored e-commerce data to understand key business metrics.
+- Analyzed sales performance across relevant products and categories.
+- Evaluated order and revenue trends.
+- Developed visualizations to communicate business performance.
+- Created an interactive Tableau dashboard to support data exploration.
 
-📈 Key Performance Indicators (KPIs)
+Key Features
 
-The dashboard may include the following metrics, depending on the visualizations implemented:
+- E-commerce sales performance analysis.
+- Product and category-wise comparisons.
+- Revenue and order trend analysis.
+- Customer-related analysis, where supported by the available data.
+- Interactive visualizations for exploring sales patterns.
 
-- Total Sales / Revenue
-- Total Orders
-- Average Order Value
-- Quantity Sold
-- Profit and Profit Margin
+Business Value
 
-Only retain the KPIs that are actually included in your dashboard.
+The dashboard helps users understand e-commerce sales performance, evaluate product trends, and explore purchasing patterns. These insights can support sales planning, product performance evaluation, and data-driven business decisions.
 
-🔍 Analysis Areas
+Skills Demonstrated
 
-- Sales Performance: Evaluate overall sales and revenue trends.
-- Product Analysis: Compare the performance of products and categories.
-- Order Analysis: Examine order volumes and purchasing trends.
-- Customer Analysis: Explore customer purchasing patterns, where customer-level data is available.
-- Time-Based Trends: Identify changes in sales over time, if supported by the dataset.
+- Tableau Dashboard Development
+- Data Visualization
+- Exploratory Data Analysis
+- E-commerce Analytics
+- Sales Performance Analysis
+- Business Intelligence
+- Data-Driven Decision-Making
 
-💡 Key Insights
+Author
 
-Key insights will be documented based on the findings from the dashboard.
+Madhav Kumar  
 
-Examples of questions explored:
+GitHub: https://github.com/madhav-kumar-shah
 
-- Which products or categories generate the highest revenue?
-- How does sales performance change over time?
-- Which products contribute most to overall sales?
-- Are there identifiable purchasing patterns or seasonal trends?
-
-Replace these prompts with actual findings from your analysis.
-
-📂 Project Files
-
-- "README.md" — Project documentation.
-- "Ecommerce_Analytics.twbx" — Packaged Tableau workbook.
-- "Dashboard_Screenshot.png" — Dashboard preview.
-- "Dataset.csv" — Source dataset, if publicly shareable.
-
-Update the filenames above to match the files in your repository.
-
-💼 Skills Demonstrated
-
-- Data visualization and dashboard development
-- Exploratory data analysis
-- KPI monitoring
-- Sales performance analysis
-- Business intelligence
-- Data-driven decision-making
-
-👨‍💻 Author
-
-Madhav Kumar Shah
-
-"GitHub Profile" (https://github.com/madhav-kumar-shah) | "LinkedIn Profile" (https://www.linkedin.com/in/madhav-kumar-432021249/)
+LinkedIn: https://www.linkedin.com/in/madhav-kumar-432021249/
